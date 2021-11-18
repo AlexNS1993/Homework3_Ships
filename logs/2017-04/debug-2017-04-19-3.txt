@@ -1,0 +1,681 @@
+05:35:20.427 [Thread-75] INFO  Ship - Ship 75 {0, UNLOAD} is going away
+05:35:21.275 [Thread-78] INFO  Ship - Ship 78 {1859, UNLOAD} has moored to Pier{id=3}
+05:35:21.452 [Thread-75] INFO  Harbor - Pier{id=3} is free
+05:35:22.452 [Thread-79] INFO  Ship - Ship 79 {800, UNLOAD} has moored to Pier{id=1}
+05:35:23.001 [Thread-76] INFO  ShipState - Ship 76 {0, UNLOAD} UNLOAD OK
+05:35:23.002 [Thread-76] INFO  Ship - Ship 76 {0, UNLOAD} is going away
+05:35:24.003 [Thread-76] INFO  Harbor - Pier{id=2} is free
+05:35:24.300 [Thread-77] INFO  ShipState - Ship 77 {0, UNLOAD} UNLOAD OK
+05:35:24.300 [Thread-77] INFO  Ship - Ship 77 {0, UNLOAD} is going away
+05:35:25.003 [Thread-80] INFO  Ship - Ship 80 {1575, UNLOAD} has moored to Pier{id=4}
+05:35:25.301 [Thread-77] INFO  Harbor - Pier{id=4} is free
+05:35:29.851 [main] INFO  App - Harbor{9437 containers, 4 piers available}
+05:35:29.855 [main] INFO  Ship - Ship 1 {1825, UPLOAD} is ready for mooring
+05:35:29.855 [main] INFO  Ship - Ship 2 {396, UPLOAD} is ready for mooring
+05:35:29.856 [main] INFO  Ship - Ship 3 {1113, UNLOAD} is ready for mooring
+05:35:29.856 [main] INFO  Ship - Ship 4 {527, UNLOAD} is ready for mooring
+05:35:29.856 [main] INFO  Ship - Ship 5 {1517, UPLOAD} is ready for mooring
+05:35:29.856 [main] INFO  Ship - Ship 6 {1187, UNLOAD} is ready for mooring
+05:35:29.857 [main] INFO  Ship - Ship 7 {1284, UNLOAD} is ready for mooring
+05:35:29.857 [main] INFO  Ship - Ship 8 {1214, UPLOAD} is ready for mooring
+05:35:29.857 [main] INFO  Ship - Ship 9 {1030, UPLOAD} is ready for mooring
+05:35:29.857 [main] INFO  Ship - Ship 10 {631, UNLOAD} is ready for mooring
+05:35:29.858 [main] INFO  Ship - Ship 11 {296, UNLOAD} is ready for mooring
+05:35:29.858 [main] INFO  Ship - Ship 12 {116, UPLOAD} is ready for mooring
+05:35:29.858 [main] INFO  Ship - Ship 13 {674, UPLOAD} is ready for mooring
+05:35:29.858 [main] INFO  Ship - Ship 14 {1539, UNLOAD} is ready for mooring
+05:35:29.859 [main] INFO  Ship - Ship 15 {1884, UNLOAD} is ready for mooring
+05:35:29.859 [main] INFO  Ship - Ship 16 {1816, UPLOAD} is ready for mooring
+05:35:29.859 [main] INFO  Ship - Ship 17 {1140, UPLOAD} is ready for mooring
+05:35:29.859 [main] INFO  Ship - Ship 18 {1609, UPLOAD} is ready for mooring
+05:35:29.859 [main] INFO  Ship - Ship 19 {895, UNLOAD} is ready for mooring
+05:35:29.860 [main] INFO  Ship - Ship 20 {1283, UNLOAD} is ready for mooring
+05:35:29.860 [main] INFO  Ship - Ship 21 {724, UNLOAD} is ready for mooring
+05:35:29.860 [main] INFO  Ship - Ship 22 {1582, UPLOAD} is ready for mooring
+05:35:29.860 [main] INFO  Ship - Ship 23 {1535, UPLOAD} is ready for mooring
+05:35:29.860 [main] INFO  Ship - Ship 24 {339, UPLOAD} is ready for mooring
+05:35:29.861 [main] INFO  Ship - Ship 25 {1717, UNLOAD} is ready for mooring
+05:35:29.861 [main] INFO  Ship - Ship 26 {175, UPLOAD} is ready for mooring
+05:35:29.861 [main] INFO  Ship - Ship 27 {200, UNLOAD} is ready for mooring
+05:35:29.861 [main] INFO  Ship - Ship 28 {672, UPLOAD} is ready for mooring
+05:35:29.862 [main] INFO  Ship - Ship 29 {562, UNLOAD} is ready for mooring
+05:35:29.862 [main] INFO  Ship - Ship 30 {1346, UNLOAD} is ready for mooring
+05:35:29.862 [main] INFO  Ship - Ship 31 {744, UNLOAD} is ready for mooring
+05:35:29.862 [main] INFO  Ship - Ship 32 {1934, UNLOAD} is ready for mooring
+05:35:29.863 [main] INFO  Ship - Ship 33 {776, UNLOAD} is ready for mooring
+05:35:29.863 [main] INFO  Ship - Ship 34 {1444, UNLOAD} is ready for mooring
+05:35:29.863 [main] INFO  Ship - Ship 35 {1097, UNLOAD} is ready for mooring
+05:35:29.863 [main] INFO  Ship - Ship 36 {1732, UPLOAD} is ready for mooring
+05:35:29.863 [main] INFO  Ship - Ship 37 {1440, UNLOAD} is ready for mooring
+05:35:29.864 [main] INFO  Ship - Ship 38 {861, UPLOAD} is ready for mooring
+05:35:29.864 [main] INFO  Ship - Ship 39 {478, UPLOAD} is ready for mooring
+05:35:29.864 [main] INFO  Ship - Ship 40 {395, UPLOAD} is ready for mooring
+05:35:29.864 [main] INFO  Ship - Ship 41 {333, UNLOAD} is ready for mooring
+05:35:29.865 [main] INFO  Ship - Ship 42 {1342, UPLOAD} is ready for mooring
+05:35:29.865 [main] INFO  Ship - Ship 43 {19, UPLOAD} is ready for mooring
+05:35:29.865 [main] INFO  Ship - Ship 44 {444, UPLOAD} is ready for mooring
+05:35:29.865 [main] INFO  Ship - Ship 45 {559, UPLOAD} is ready for mooring
+05:35:29.865 [main] INFO  Ship - Ship 46 {1282, UNLOAD} is ready for mooring
+05:35:29.866 [main] INFO  Ship - Ship 47 {46, UPLOAD} is ready for mooring
+05:35:29.866 [main] INFO  Ship - Ship 48 {1572, UPLOAD} is ready for mooring
+05:35:29.867 [main] INFO  Ship - Ship 49 {44, UNLOAD} is ready for mooring
+05:35:29.867 [main] INFO  Ship - Ship 50 {1247, UPLOAD} is ready for mooring
+05:35:29.867 [main] INFO  Ship - Ship 51 {521, UPLOAD} is ready for mooring
+05:35:29.867 [main] INFO  Ship - Ship 52 {1546, UPLOAD} is ready for mooring
+05:35:29.867 [main] INFO  Ship - Ship 53 {1450, UPLOAD} is ready for mooring
+05:35:29.868 [main] INFO  Ship - Ship 54 {1505, UPLOAD} is ready for mooring
+05:35:29.868 [main] INFO  Ship - Ship 55 {1483, UNLOAD} is ready for mooring
+05:35:29.868 [main] INFO  Ship - Ship 56 {1780, UNLOAD} is ready for mooring
+05:35:29.868 [main] INFO  Ship - Ship 57 {430, UNLOAD} is ready for mooring
+05:35:29.869 [main] INFO  Ship - Ship 58 {880, UNLOAD} is ready for mooring
+05:35:29.869 [main] INFO  Ship - Ship 59 {1733, UNLOAD} is ready for mooring
+05:35:29.869 [main] INFO  Ship - Ship 60 {1112, UPLOAD} is ready for mooring
+05:35:29.869 [main] INFO  Ship - Ship 61 {1765, UNLOAD} is ready for mooring
+05:35:29.869 [main] INFO  Ship - Ship 62 {1640, UNLOAD} is ready for mooring
+05:35:29.870 [main] INFO  Ship - Ship 63 {1219, UNLOAD} is ready for mooring
+05:35:29.870 [main] INFO  Ship - Ship 64 {329, UPLOAD} is ready for mooring
+05:35:29.870 [main] INFO  Ship - Ship 65 {1275, UPLOAD} is ready for mooring
+05:35:29.870 [main] INFO  Ship - Ship 66 {1191, UPLOAD} is ready for mooring
+05:35:29.871 [main] INFO  Ship - Ship 67 {1844, UNLOAD} is ready for mooring
+05:35:29.871 [main] INFO  Ship - Ship 68 {1392, UNLOAD} is ready for mooring
+05:35:29.871 [main] INFO  Ship - Ship 69 {673, UNLOAD} is ready for mooring
+05:35:29.871 [main] INFO  Ship - Ship 70 {513, UPLOAD} is ready for mooring
+05:35:29.871 [main] INFO  Ship - Ship 71 {1351, UPLOAD} is ready for mooring
+05:35:29.872 [main] INFO  Ship - Ship 72 {1663, UPLOAD} is ready for mooring
+05:35:29.872 [main] INFO  Ship - Ship 73 {337, UPLOAD} is ready for mooring
+05:35:29.872 [main] INFO  Ship - Ship 74 {1711, UNLOAD} is ready for mooring
+05:35:29.872 [main] INFO  Ship - Ship 75 {1437, UPLOAD} is ready for mooring
+05:35:29.872 [main] INFO  Ship - Ship 76 {1167, UPLOAD} is ready for mooring
+05:35:29.872 [main] INFO  Ship - Ship 77 {612, UPLOAD} is ready for mooring
+05:35:29.873 [main] INFO  Ship - Ship 78 {211, UPLOAD} is ready for mooring
+05:35:29.873 [main] INFO  Ship - Ship 79 {1164, UPLOAD} is ready for mooring
+05:35:29.873 [main] INFO  Ship - Ship 80 {369, UPLOAD} is ready for mooring
+05:35:29.873 [main] INFO  Ship - Ship 81 {1832, UPLOAD} is ready for mooring
+05:35:29.874 [main] INFO  Ship - Ship 82 {545, UNLOAD} is ready for mooring
+05:35:29.874 [main] INFO  Ship - Ship 83 {1437, UPLOAD} is ready for mooring
+05:35:29.874 [main] INFO  Ship - Ship 84 {1066, UPLOAD} is ready for mooring
+05:35:29.874 [main] INFO  Ship - Ship 85 {223, UPLOAD} is ready for mooring
+05:35:29.874 [main] INFO  Ship - Ship 86 {1344, UPLOAD} is ready for mooring
+05:35:29.875 [main] INFO  Ship - Ship 87 {1510, UNLOAD} is ready for mooring
+05:35:29.875 [main] INFO  Ship - Ship 88 {1426, UNLOAD} is ready for mooring
+05:35:29.875 [main] INFO  Ship - Ship 89 {1379, UPLOAD} is ready for mooring
+05:35:29.875 [main] INFO  Ship - Ship 90 {1562, UNLOAD} is ready for mooring
+05:35:29.875 [main] INFO  Ship - Ship 91 {1640, UNLOAD} is ready for mooring
+05:35:29.876 [main] INFO  Ship - Ship 92 {1198, UPLOAD} is ready for mooring
+05:35:29.876 [main] INFO  Ship - Ship 93 {354, UNLOAD} is ready for mooring
+05:35:29.876 [main] INFO  Ship - Ship 94 {1211, UPLOAD} is ready for mooring
+05:35:29.876 [main] INFO  Ship - Ship 95 {274, UPLOAD} is ready for mooring
+05:35:29.876 [main] INFO  Ship - Ship 96 {727, UNLOAD} is ready for mooring
+05:35:29.876 [main] INFO  Ship - Ship 97 {784, UPLOAD} is ready for mooring
+05:35:29.877 [main] INFO  Ship - Ship 98 {1174, UNLOAD} is ready for mooring
+05:35:29.877 [main] INFO  Ship - Ship 99 {1978, UPLOAD} is ready for mooring
+05:35:29.877 [main] INFO  Ship - Ship 100 {885, UPLOAD} is ready for mooring
+05:35:30.986 [Thread-2] INFO  Ship - Ship 2 {396, UPLOAD} has moored to Pier{id=3}
+05:35:30.986 [Thread-1] INFO  Ship - Ship 1 {1825, UPLOAD} has moored to Pier{id=4}
+05:35:30.987 [Thread-3] INFO  Ship - Ship 3 {1113, UNLOAD} has moored to Pier{id=2}
+05:35:30.989 [Thread-4] INFO  Ship - Ship 4 {527, UNLOAD} has moored to Pier{id=1}
+05:35:33.591 [Thread-2] INFO  ShipState - Ship 2 {2000, UPLOAD} UPLOAD OK
+05:35:34.592 [Thread-2] INFO  Ship - Ship 2 {2000, UPLOAD} is going away
+05:35:35.594 [Thread-2] INFO  Harbor - Pier{id=3} is free
+05:35:35.768 [Thread-1] INFO  ShipState - Ship 1 {2000, UPLOAD} UPLOAD OK
+05:35:36.595 [Thread-5] INFO  Ship - Ship 5 {1517, UPLOAD} has moored to Pier{id=3}
+05:35:36.769 [Thread-1] INFO  Ship - Ship 1 {2000, UPLOAD} is going away
+05:35:37.770 [Thread-1] INFO  Harbor - Pier{id=4} is free
+05:35:38.770 [Thread-6] INFO  Ship - Ship 6 {1187, UNLOAD} has moored to Pier{id=4}
+05:35:38.883 [Thread-3] INFO  ShipState - Ship 3 {0, UNLOAD} UNLOAD OK
+05:35:39.884 [Thread-3] INFO  Ship - Ship 3 {0, UNLOAD} is going away
+05:35:40.884 [Thread-3] INFO  Harbor - Pier{id=2} is free
+05:35:41.411 [Thread-4] INFO  ShipState - Ship 4 {0, UNLOAD} UNLOAD OK
+05:35:41.885 [Thread-7] INFO  Ship - Ship 7 {1284, UNLOAD} has moored to Pier{id=2}
+05:35:42.412 [Thread-4] INFO  Ship - Ship 4 {0, UNLOAD} is going away
+05:35:43.413 [Thread-4] INFO  Harbor - Pier{id=1} is free
+05:35:43.895 [Thread-5] INFO  ShipState - Ship 5 {2000, UPLOAD} UPLOAD OK
+05:35:44.413 [Thread-8] INFO  Ship - Ship 8 {1214, UPLOAD} has moored to Pier{id=1}
+05:35:44.896 [Thread-5] INFO  Ship - Ship 5 {2000, UPLOAD} is going away
+05:35:45.896 [Thread-6] INFO  ShipState - There is not enough space in the storage for Ship 6 {1187, UNLOAD} Storage space: 1185
+05:35:45.897 [Thread-5] INFO  Harbor - Pier{id=3} is free
+05:35:46.897 [Thread-9] INFO  Ship - Ship 9 {1030, UPLOAD} has moored to Pier{id=3}
+05:35:47.083 [Thread-6] INFO  ShipState - Ship 6 {2, UNLOAD} UNLOAD OK (not full)
+05:35:48.084 [Thread-6] INFO  Ship - Ship 6 {2, UNLOAD} is going away
+05:35:49.085 [Thread-6] INFO  Harbor - Pier{id=4} is free
+05:35:49.084 [Thread-7] ERROR Pier - Ship 7 {1284, UNLOAD} Storage full
+HarborException:  Storage full
+	at ShipState$2.action(ShipState.java:59) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:35:49.094 [Thread-7] INFO  Ship - Ship 7 {1284, UNLOAD} is going away
+05:35:50.085 [Thread-10] INFO  Ship - Ship 10 {631, UNLOAD} has moored to Pier{id=2}
+05:35:50.095 [Thread-7] INFO  Harbor - Pier{id=2} is free
+05:35:50.880 [Thread-8] INFO  ShipState - Ship 8 {2000, UPLOAD} UPLOAD OK
+05:35:51.095 [Thread-11] INFO  Ship - Ship 11 {296, UNLOAD} has moored to Pier{id=4}
+05:35:51.881 [Thread-8] INFO  Ship - Ship 8 {2000, UPLOAD} is going away
+05:35:52.882 [Thread-8] INFO  Harbor - Pier{id=1} is free
+05:35:53.852 [Thread-9] INFO  ShipState - Ship 9 {2000, UPLOAD} UPLOAD OK
+05:35:53.882 [Thread-12] INFO  Ship - Ship 12 {116, UPLOAD} has moored to Pier{id=1}
+05:35:54.852 [Thread-9] INFO  Ship - Ship 9 {2000, UPLOAD} is going away
+05:35:55.853 [Thread-9] INFO  Harbor - Pier{id=3} is free
+05:35:56.485 [Thread-10] INFO  ShipState - Ship 10 {0, UNLOAD} UNLOAD OK
+05:35:56.853 [Thread-13] INFO  Ship - Ship 13 {674, UPLOAD} has moored to Pier{id=3}
+05:35:57.486 [Thread-10] INFO  Ship - Ship 10 {0, UNLOAD} is going away
+05:35:58.487 [Thread-10] INFO  Harbor - Pier{id=2} is free
+05:35:58.782 [Thread-11] INFO  ShipState - Ship 11 {0, UNLOAD} UNLOAD OK
+05:35:59.487 [Thread-14] INFO  Ship - Ship 14 {1539, UNLOAD} has moored to Pier{id=2}
+05:35:59.783 [Thread-11] INFO  Ship - Ship 11 {0, UNLOAD} is going away
+05:36:00.784 [Thread-11] INFO  Harbor - Pier{id=4} is free
+05:36:01.784 [Thread-15] INFO  Ship - Ship 15 {1884, UNLOAD} has moored to Pier{id=4}
+05:36:02.667 [Thread-12] INFO  ShipState - Ship 12 {2000, UPLOAD} UPLOAD OK
+05:36:03.668 [Thread-12] INFO  Ship - Ship 12 {2000, UPLOAD} is going away
+05:36:04.669 [Thread-12] INFO  Harbor - Pier{id=1} is free
+05:36:05.669 [Thread-16] INFO  Ship - Ship 16 {1816, UPLOAD} has moored to Pier{id=1}
+05:36:05.995 [Thread-13] INFO  ShipState - Ship 13 {2000, UPLOAD} UPLOAD OK
+05:36:06.995 [Thread-13] INFO  Ship - Ship 13 {2000, UPLOAD} is going away
+05:36:07.996 [Thread-13] INFO  Harbor - Pier{id=3} is free
+05:36:08.996 [Thread-17] INFO  Ship - Ship 17 {1140, UPLOAD} has moored to Pier{id=3}
+05:36:09.535 [Thread-14] INFO  ShipState - Ship 14 {0, UNLOAD} UNLOAD OK
+05:36:10.536 [Thread-14] INFO  Ship - Ship 14 {0, UNLOAD} is going away
+05:36:11.536 [Thread-14] INFO  Harbor - Pier{id=2} is free
+05:36:12.537 [Thread-18] INFO  Ship - Ship 18 {1609, UPLOAD} has moored to Pier{id=2}
+05:36:13.420 [Thread-15] INFO  ShipState - Ship 15 {0, UNLOAD} UNLOAD OK
+05:36:14.421 [Thread-15] INFO  Ship - Ship 15 {0, UNLOAD} is going away
+05:36:15.422 [Thread-15] INFO  Harbor - Pier{id=4} is free
+05:36:15.605 [Thread-16] INFO  ShipState - Ship 16 {2000, UPLOAD} UPLOAD OK
+05:36:16.422 [Thread-19] INFO  Ship - Ship 19 {895, UNLOAD} has moored to Pier{id=4}
+05:36:16.606 [Thread-16] INFO  Ship - Ship 16 {2000, UPLOAD} is going away
+05:36:17.607 [Thread-16] INFO  Harbor - Pier{id=1} is free
+05:36:18.467 [Thread-17] INFO  ShipState - Ship 17 {2000, UPLOAD} UPLOAD OK
+05:36:18.607 [Thread-20] INFO  Ship - Ship 20 {1283, UNLOAD} has moored to Pier{id=1}
+05:36:19.467 [Thread-17] INFO  Ship - Ship 17 {2000, UPLOAD} is going away
+05:36:20.468 [Thread-17] INFO  Harbor - Pier{id=3} is free
+05:36:20.859 [Thread-18] INFO  ShipState - Ship 18 {2000, UPLOAD} UPLOAD OK
+05:36:21.469 [Thread-21] INFO  Ship - Ship 21 {724, UNLOAD} has moored to Pier{id=3}
+05:36:21.860 [Thread-18] INFO  Ship - Ship 18 {2000, UPLOAD} is going away
+05:36:22.861 [Thread-18] INFO  Harbor - Pier{id=2} is free
+05:36:23.755 [Thread-19] INFO  ShipState - Ship 19 {0, UNLOAD} UNLOAD OK
+05:36:23.861 [Thread-22] INFO  Ship - Ship 22 {1582, UPLOAD} has moored to Pier{id=2}
+05:36:24.756 [Thread-19] INFO  Ship - Ship 19 {0, UNLOAD} is going away
+05:36:25.756 [Thread-20] INFO  ShipState - There is not enough space in the storage for Ship 20 {1283, UNLOAD} Storage space: 1156
+05:36:25.757 [Thread-19] INFO  Harbor - Pier{id=4} is free
+05:36:26.757 [Thread-23] INFO  Ship - Ship 23 {1535, UPLOAD} has moored to Pier{id=4}
+05:36:26.913 [Thread-20] INFO  ShipState - Ship 20 {127, UNLOAD} UNLOAD OK (not full)
+05:36:27.914 [Thread-20] INFO  Ship - Ship 20 {127, UNLOAD} is going away
+05:36:28.915 [Thread-20] INFO  Harbor - Pier{id=1} is free
+05:36:28.914 [Thread-21] ERROR Pier - Ship 21 {724, UNLOAD} Storage full
+HarborException:  Storage full
+	at ShipState$2.action(ShipState.java:59) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:36:28.915 [Thread-21] INFO  Ship - Ship 21 {724, UNLOAD} is going away
+05:36:29.915 [Thread-24] INFO  Ship - Ship 24 {339, UPLOAD} has moored to Pier{id=3}
+05:36:29.916 [Thread-21] INFO  Harbor - Pier{id=3} is free
+05:36:30.334 [Thread-22] INFO  ShipState - Ship 22 {2000, UPLOAD} UPLOAD OK
+05:36:30.916 [Thread-25] INFO  Ship - Ship 25 {1717, UNLOAD} has moored to Pier{id=1}
+05:36:31.334 [Thread-22] INFO  Ship - Ship 22 {2000, UPLOAD} is going away
+05:36:32.335 [Thread-22] INFO  Harbor - Pier{id=2} is free
+05:37:54.408 [main] INFO  App - Harbor{9142 containers, 4 piers available}
+05:37:54.414 [main] INFO  Ship - Ship 1 {1482, UNLOAD} is ready for mooring
+05:37:54.414 [main] INFO  Ship - Ship 2 {1274, UNLOAD} is ready for mooring
+05:37:54.415 [main] INFO  Ship - Ship 3 {222, RELOAD} is ready for mooring
+05:37:54.415 [main] INFO  Ship - Ship 4 {1191, UNLOAD} is ready for mooring
+05:37:54.415 [main] INFO  Ship - Ship 5 {370, RELOAD} is ready for mooring
+05:37:54.416 [main] INFO  Ship - Ship 6 {442, UPLOAD} is ready for mooring
+05:37:54.416 [main] INFO  Ship - Ship 7 {1484, UPLOAD} is ready for mooring
+05:37:54.416 [main] INFO  Ship - Ship 8 {1955, RELOAD} is ready for mooring
+05:37:54.416 [main] INFO  Ship - Ship 9 {330, UPLOAD} is ready for mooring
+05:37:54.416 [main] INFO  Ship - Ship 10 {672, UPLOAD} is ready for mooring
+05:37:54.417 [main] INFO  Ship - Ship 11 {684, UNLOAD} is ready for mooring
+05:37:54.417 [main] INFO  Ship - Ship 12 {816, UPLOAD} is ready for mooring
+05:37:54.417 [main] INFO  Ship - Ship 13 {1311, UPLOAD} is ready for mooring
+05:37:54.417 [main] INFO  Ship - Ship 14 {349, UPLOAD} is ready for mooring
+05:37:54.418 [main] INFO  Ship - Ship 15 {605, RELOAD} is ready for mooring
+05:37:54.418 [main] INFO  Ship - Ship 16 {1305, RELOAD} is ready for mooring
+05:37:54.418 [main] INFO  Ship - Ship 17 {1532, RELOAD} is ready for mooring
+05:37:54.418 [main] INFO  Ship - Ship 18 {1517, UNLOAD} is ready for mooring
+05:37:54.418 [main] INFO  Ship - Ship 19 {1104, RELOAD} is ready for mooring
+05:37:54.419 [main] INFO  Ship - Ship 20 {668, UPLOAD} is ready for mooring
+05:37:54.419 [main] INFO  Ship - Ship 21 {1726, UPLOAD} is ready for mooring
+05:37:54.419 [main] INFO  Ship - Ship 22 {1068, UPLOAD} is ready for mooring
+05:37:54.419 [main] INFO  Ship - Ship 23 {1325, UPLOAD} is ready for mooring
+05:37:54.419 [main] INFO  Ship - Ship 24 {1149, RELOAD} is ready for mooring
+05:37:54.420 [main] INFO  Ship - Ship 25 {1764, RELOAD} is ready for mooring
+05:37:54.420 [main] INFO  Ship - Ship 26 {1103, UPLOAD} is ready for mooring
+05:37:54.420 [main] INFO  Ship - Ship 27 {1915, UPLOAD} is ready for mooring
+05:37:54.420 [main] INFO  Ship - Ship 28 {636, UPLOAD} is ready for mooring
+05:37:54.420 [main] INFO  Ship - Ship 29 {110, UPLOAD} is ready for mooring
+05:37:54.421 [main] INFO  Ship - Ship 30 {43, UPLOAD} is ready for mooring
+05:37:54.421 [main] INFO  Ship - Ship 31 {1350, RELOAD} is ready for mooring
+05:37:54.421 [main] INFO  Ship - Ship 32 {570, UPLOAD} is ready for mooring
+05:37:54.421 [main] INFO  Ship - Ship 33 {587, UPLOAD} is ready for mooring
+05:37:54.421 [main] INFO  Ship - Ship 34 {1541, UNLOAD} is ready for mooring
+05:37:54.422 [main] INFO  Ship - Ship 35 {1142, RELOAD} is ready for mooring
+05:37:54.422 [main] INFO  Ship - Ship 36 {825, UNLOAD} is ready for mooring
+05:37:54.422 [main] INFO  Ship - Ship 37 {1843, UPLOAD} is ready for mooring
+05:37:54.422 [main] INFO  Ship - Ship 38 {1658, UPLOAD} is ready for mooring
+05:37:54.422 [main] INFO  Ship - Ship 39 {1573, RELOAD} is ready for mooring
+05:37:54.423 [main] INFO  Ship - Ship 40 {1917, UPLOAD} is ready for mooring
+05:37:54.423 [main] INFO  Ship - Ship 41 {1360, RELOAD} is ready for mooring
+05:37:54.423 [main] INFO  Ship - Ship 42 {1620, UNLOAD} is ready for mooring
+05:37:54.423 [main] INFO  Ship - Ship 43 {1077, UPLOAD} is ready for mooring
+05:37:54.423 [main] INFO  Ship - Ship 44 {661, UNLOAD} is ready for mooring
+05:37:54.424 [main] INFO  Ship - Ship 45 {450, UPLOAD} is ready for mooring
+05:37:54.424 [main] INFO  Ship - Ship 46 {1780, UNLOAD} is ready for mooring
+05:37:54.424 [main] INFO  Ship - Ship 47 {1283, UNLOAD} is ready for mooring
+05:37:54.424 [main] INFO  Ship - Ship 48 {1683, UPLOAD} is ready for mooring
+05:37:54.425 [main] INFO  Ship - Ship 49 {642, RELOAD} is ready for mooring
+05:37:54.425 [main] INFO  Ship - Ship 50 {1745, UPLOAD} is ready for mooring
+05:37:54.425 [main] INFO  Ship - Ship 51 {1029, RELOAD} is ready for mooring
+05:37:54.425 [main] INFO  Ship - Ship 52 {436, UNLOAD} is ready for mooring
+05:37:54.425 [main] INFO  Ship - Ship 53 {547, UNLOAD} is ready for mooring
+05:37:54.426 [main] INFO  Ship - Ship 54 {1814, UPLOAD} is ready for mooring
+05:37:54.426 [main] INFO  Ship - Ship 55 {1079, UNLOAD} is ready for mooring
+05:37:54.426 [main] INFO  Ship - Ship 56 {1293, UPLOAD} is ready for mooring
+05:37:54.426 [main] INFO  Ship - Ship 57 {1836, RELOAD} is ready for mooring
+05:37:54.426 [main] INFO  Ship - Ship 58 {1183, UPLOAD} is ready for mooring
+05:37:54.427 [main] INFO  Ship - Ship 59 {951, UNLOAD} is ready for mooring
+05:37:54.427 [main] INFO  Ship - Ship 60 {895, RELOAD} is ready for mooring
+05:37:54.427 [main] INFO  Ship - Ship 61 {1693, UNLOAD} is ready for mooring
+05:37:54.427 [main] INFO  Ship - Ship 62 {1585, RELOAD} is ready for mooring
+05:37:54.428 [main] INFO  Ship - Ship 63 {43, UNLOAD} is ready for mooring
+05:37:54.428 [main] INFO  Ship - Ship 64 {1291, RELOAD} is ready for mooring
+05:37:54.428 [main] INFO  Ship - Ship 65 {1957, RELOAD} is ready for mooring
+05:37:54.430 [main] INFO  Ship - Ship 66 {1571, UPLOAD} is ready for mooring
+05:37:54.430 [main] INFO  Ship - Ship 67 {1503, RELOAD} is ready for mooring
+05:37:54.430 [main] INFO  Ship - Ship 68 {1650, UPLOAD} is ready for mooring
+05:37:54.430 [main] INFO  Ship - Ship 69 {1428, UNLOAD} is ready for mooring
+05:37:54.431 [main] INFO  Ship - Ship 70 {318, UNLOAD} is ready for mooring
+05:37:54.431 [main] INFO  Ship - Ship 71 {815, UNLOAD} is ready for mooring
+05:37:54.431 [main] INFO  Ship - Ship 72 {1526, UNLOAD} is ready for mooring
+05:37:54.431 [main] INFO  Ship - Ship 73 {184, UNLOAD} is ready for mooring
+05:37:54.431 [main] INFO  Ship - Ship 74 {192, RELOAD} is ready for mooring
+05:37:54.432 [main] INFO  Ship - Ship 75 {357, UPLOAD} is ready for mooring
+05:37:54.432 [main] INFO  Ship - Ship 76 {1372, UNLOAD} is ready for mooring
+05:37:54.432 [main] INFO  Ship - Ship 77 {444, RELOAD} is ready for mooring
+05:37:54.432 [main] INFO  Ship - Ship 78 {1865, UPLOAD} is ready for mooring
+05:37:54.432 [main] INFO  Ship - Ship 79 {1067, UNLOAD} is ready for mooring
+05:37:54.433 [main] INFO  Ship - Ship 80 {699, UNLOAD} is ready for mooring
+05:37:54.433 [main] INFO  Ship - Ship 81 {1793, UPLOAD} is ready for mooring
+05:37:54.433 [main] INFO  Ship - Ship 82 {272, UPLOAD} is ready for mooring
+05:37:54.433 [main] INFO  Ship - Ship 83 {1403, RELOAD} is ready for mooring
+05:37:54.433 [main] INFO  Ship - Ship 84 {880, UNLOAD} is ready for mooring
+05:37:54.434 [main] INFO  Ship - Ship 85 {18, UNLOAD} is ready for mooring
+05:37:54.434 [main] INFO  Ship - Ship 86 {460, RELOAD} is ready for mooring
+05:37:54.434 [main] INFO  Ship - Ship 87 {72, RELOAD} is ready for mooring
+05:37:54.434 [main] INFO  Ship - Ship 88 {1889, UPLOAD} is ready for mooring
+05:37:54.434 [main] INFO  Ship - Ship 89 {635, UPLOAD} is ready for mooring
+05:37:54.435 [main] INFO  Ship - Ship 90 {504, RELOAD} is ready for mooring
+05:37:54.435 [main] INFO  Ship - Ship 91 {1710, UPLOAD} is ready for mooring
+05:37:54.435 [main] INFO  Ship - Ship 92 {1187, RELOAD} is ready for mooring
+05:37:54.435 [main] INFO  Ship - Ship 93 {222, UPLOAD} is ready for mooring
+05:37:54.435 [main] INFO  Ship - Ship 94 {483, UNLOAD} is ready for mooring
+05:37:54.436 [main] INFO  Ship - Ship 95 {1896, UPLOAD} is ready for mooring
+05:37:54.436 [main] INFO  Ship - Ship 96 {1807, UPLOAD} is ready for mooring
+05:37:54.436 [main] INFO  Ship - Ship 97 {205, UPLOAD} is ready for mooring
+05:37:54.436 [main] INFO  Ship - Ship 98 {1713, UPLOAD} is ready for mooring
+05:37:54.436 [main] INFO  Ship - Ship 99 {1990, UPLOAD} is ready for mooring
+05:37:54.436 [main] INFO  Ship - Ship 100 {1293, RELOAD} is ready for mooring
+05:37:55.530 [Thread-3] INFO  Ship - Ship 3 {222, RELOAD} has moored to Pier{id=3}
+05:37:55.530 [Thread-2] INFO  Ship - Ship 2 {1274, UNLOAD} has moored to Pier{id=4}
+05:37:55.531 [Thread-4] INFO  Ship - Ship 4 {1191, UNLOAD} has moored to Pier{id=2}
+05:37:55.531 [Thread-1] INFO  Ship - Ship 1 {1482, UNLOAD} has moored to Pier{id=1}
+05:37:56.754 [Thread-3] INFO  ShipState - Ship 3 {0, RELOAD} UNLOAD OK
+05:37:58.755 [Thread-3] INFO  ShipState - Ship 3 {2000, RELOAD} UPLOAD OK
+05:37:59.757 [Thread-3] INFO  Ship - Ship 3 {2000, RELOAD} is going away
+05:38:00.759 [Thread-3] INFO  Harbor - Pier{id=3} is free
+05:38:01.759 [Thread-5] INFO  Ship - Ship 5 {370, RELOAD} has moored to Pier{id=3}
+05:38:02.031 [Thread-2] INFO  ShipState - Ship 2 {0, UNLOAD} UNLOAD OK
+05:38:03.032 [Thread-2] INFO  Ship - Ship 2 {0, UNLOAD} is going away
+05:38:04.033 [Thread-2] INFO  Harbor - Pier{id=4} is free
+05:38:05.033 [Thread-6] INFO  Ship - Ship 6 {442, UPLOAD} has moored to Pier{id=4}
+05:38:05.223 [Thread-4] INFO  ShipState - Ship 4 {0, UNLOAD} UNLOAD OK
+05:38:06.224 [Thread-4] INFO  Ship - Ship 4 {0, UNLOAD} is going away
+05:38:07.225 [Thread-1] INFO  ShipState - There is not enough space in the storage for Ship 1 {1482, UNLOAD} Storage space: 171
+05:38:07.225 [Thread-4] INFO  Harbor - Pier{id=2} is free
+05:38:07.397 [Thread-1] INFO  ShipState - Ship 1 {1311, UNLOAD} UNLOAD OK (not full)
+05:38:08.225 [Thread-8] INFO  Ship - Ship 8 {1955, RELOAD} has moored to Pier{id=2}
+05:38:08.398 [Thread-1] INFO  Ship - Ship 1 {1311, UNLOAD} is going away
+05:38:09.399 [Thread-1] INFO  Harbor - Pier{id=1} is free
+05:38:09.399 [Thread-5] ERROR Pier - Ship 5 {370, RELOAD} Storage full
+HarborException:  Storage full
+	at ShipState$2.action(ShipState.java:59) ~[classes/:?]
+	at ShipState$3.action(ShipState.java:90) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:38:09.409 [Thread-5] INFO  Ship - Ship 5 {370, RELOAD} is going away
+05:38:10.399 [Thread-7] INFO  Ship - Ship 7 {1484, UPLOAD} has moored to Pier{id=3}
+05:38:10.409 [Thread-5] INFO  Harbor - Pier{id=3} is free
+05:38:11.409 [Thread-9] INFO  Ship - Ship 9 {330, UPLOAD} has moored to Pier{id=1}
+05:38:11.967 [Thread-6] INFO  ShipState - Ship 6 {2000, UPLOAD} UPLOAD OK
+05:38:12.969 [Thread-6] INFO  Ship - Ship 6 {2000, UPLOAD} is going away
+05:38:13.969 [Thread-8] INFO  ShipState - There is not enough space in the storage for Ship 8 {1955, RELOAD} Storage space: 1558
+05:38:13.970 [Thread-6] INFO  Harbor - Pier{id=4} is free
+05:38:14.971 [Thread-10] INFO  Ship - Ship 10 {672, UPLOAD} has moored to Pier{id=4}
+05:38:15.529 [Thread-8] INFO  ShipState - Ship 8 {397, RELOAD} UNLOAD OK (not full)
+05:38:17.133 [Thread-8] INFO  ShipState - Ship 8 {2000, RELOAD} UPLOAD OK
+05:38:18.134 [Thread-8] INFO  Ship - Ship 8 {2000, RELOAD} is going away
+05:38:19.135 [Thread-8] INFO  Harbor - Pier{id=2} is free
+05:38:19.651 [Thread-7] INFO  ShipState - Ship 7 {2000, UPLOAD} UPLOAD OK
+05:38:20.135 [Thread-11] INFO  Ship - Ship 11 {684, UNLOAD} has moored to Pier{id=2}
+05:38:20.652 [Thread-7] INFO  Ship - Ship 7 {2000, UPLOAD} is going away
+05:38:21.653 [Thread-7] INFO  Harbor - Pier{id=3} is free
+05:38:22.653 [Thread-12] INFO  Ship - Ship 12 {816, UPLOAD} has moored to Pier{id=3}
+05:38:23.322 [Thread-9] INFO  ShipState - Ship 9 {2000, UPLOAD} UPLOAD OK
+05:38:24.323 [Thread-9] INFO  Ship - Ship 9 {2000, UPLOAD} is going away
+05:38:25.324 [Thread-9] INFO  Harbor - Pier{id=1} is free
+05:38:26.325 [Thread-13] INFO  Ship - Ship 13 {1311, UPLOAD} has moored to Pier{id=1}
+05:38:26.652 [Thread-10] INFO  ShipState - Ship 10 {2000, UPLOAD} UPLOAD OK
+05:38:27.652 [Thread-10] INFO  Ship - Ship 10 {2000, UPLOAD} is going away
+05:38:28.653 [Thread-10] INFO  Harbor - Pier{id=4} is free
+05:38:29.337 [Thread-11] INFO  ShipState - Ship 11 {0, UNLOAD} UNLOAD OK
+05:38:29.654 [Thread-14] INFO  Ship - Ship 14 {349, UPLOAD} has moored to Pier{id=4}
+05:38:30.338 [Thread-11] INFO  Ship - Ship 11 {0, UNLOAD} is going away
+05:38:31.338 [Thread-11] INFO  Harbor - Pier{id=2} is free
+05:38:32.339 [Thread-15] INFO  Ship - Ship 15 {605, RELOAD} has moored to Pier{id=2}
+05:38:32.522 [Thread-12] INFO  ShipState - Ship 12 {2000, UPLOAD} UPLOAD OK
+05:38:33.523 [Thread-12] INFO  Ship - Ship 12 {2000, UPLOAD} is going away
+05:38:34.523 [Thread-12] INFO  Harbor - Pier{id=3} is free
+05:38:35.212 [Thread-13] INFO  ShipState - Ship 13 {2000, UPLOAD} UPLOAD OK
+05:38:35.524 [Thread-16] INFO  Ship - Ship 16 {1305, RELOAD} has moored to Pier{id=3}
+05:38:36.213 [Thread-13] INFO  Ship - Ship 13 {2000, UPLOAD} is going away
+05:38:37.214 [Thread-13] INFO  Harbor - Pier{id=1} is free
+05:38:38.214 [Thread-17] INFO  Ship - Ship 17 {1532, RELOAD} has moored to Pier{id=1}
+05:38:38.864 [Thread-14] INFO  ShipState - Ship 14 {2000, UPLOAD} UPLOAD OK
+05:38:39.865 [Thread-14] INFO  Ship - Ship 14 {2000, UPLOAD} is going away
+05:38:40.866 [Thread-14] INFO  Harbor - Pier{id=4} is free
+05:38:41.471 [Thread-15] INFO  ShipState - Ship 15 {0, RELOAD} UNLOAD OK
+05:38:41.867 [Thread-18] INFO  Ship - Ship 18 {1517, UNLOAD} has moored to Pier{id=4}
+05:38:43.472 [Thread-15] INFO  ShipState - Ship 15 {2000, RELOAD} UPLOAD OK
+05:38:44.473 [Thread-15] INFO  Ship - Ship 15 {2000, RELOAD} is going away
+05:38:45.473 [Thread-15] INFO  Harbor - Pier{id=2} is free
+05:38:46.474 [Thread-19] INFO  Ship - Ship 19 {1104, RELOAD} has moored to Pier{id=2}
+05:38:46.778 [Thread-16] INFO  ShipState - Ship 16 {0, RELOAD} UNLOAD OK
+05:38:46.779 [Thread-16] INFO  ShipState - There is not enough containers in the storage for Ship 16 {0, RELOAD} 1953
+05:38:48.733 [Thread-16] INFO  ShipState - Ship 16 {1953, RELOAD} UPLOAD OK (not full)
+05:38:49.734 [Thread-16] INFO  Ship - Ship 16 {1953, RELOAD} is going away
+05:38:50.735 [Thread-16] INFO  Harbor - Pier{id=3} is free
+05:38:51.735 [Thread-20] INFO  Ship - Ship 20 {668, UPLOAD} has moored to Pier{id=3}
+05:38:52.266 [Thread-17] INFO  ShipState - Ship 17 {0, RELOAD} UNLOAD OK
+05:38:52.267 [Thread-17] INFO  ShipState - There is not enough containers in the storage for Ship 17 {0, RELOAD} 1532
+05:38:53.799 [Thread-17] INFO  ShipState - Ship 17 {1532, RELOAD} UPLOAD OK (not full)
+05:38:54.800 [Thread-17] INFO  Ship - Ship 17 {1532, RELOAD} is going away
+05:38:55.801 [Thread-17] INFO  Harbor - Pier{id=1} is free
+05:38:56.801 [Thread-21] INFO  Ship - Ship 21 {1726, UPLOAD} has moored to Pier{id=1}
+05:38:57.318 [Thread-18] INFO  ShipState - Ship 18 {0, UNLOAD} UNLOAD OK
+05:38:58.318 [Thread-18] INFO  Ship - Ship 18 {0, UNLOAD} is going away
+05:38:59.319 [Thread-18] INFO  Harbor - Pier{id=4} is free
+05:39:00.320 [Thread-22] INFO  Ship - Ship 22 {1068, UPLOAD} has moored to Pier{id=4}
+05:39:00.423 [Thread-19] INFO  ShipState - Ship 19 {0, RELOAD} UNLOAD OK
+05:39:02.423 [Thread-19] INFO  ShipState - Ship 19 {2000, RELOAD} UPLOAD OK
+05:39:03.424 [Thread-19] INFO  Ship - Ship 19 {2000, RELOAD} is going away
+05:39:04.424 [Thread-20] INFO  ShipState - There is not enough containers in the storage for Ship 20 {668, UPLOAD} 621
+05:39:04.425 [Thread-19] INFO  Harbor - Pier{id=2} is free
+05:39:05.046 [Thread-20] INFO  ShipState - Ship 20 {621, UPLOAD} UPLOAD OK (not full)
+05:39:05.425 [Thread-23] INFO  Ship - Ship 23 {1325, UPLOAD} has moored to Pier{id=2}
+05:39:06.047 [Thread-20] INFO  Ship - Ship 20 {621, UPLOAD} is going away
+05:39:07.047 [Thread-21] ERROR Pier - Ship 21 {1726, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:07.048 [Thread-20] INFO  Harbor - Pier{id=3} is free
+05:39:07.048 [Thread-21] INFO  Ship - Ship 21 {1726, UPLOAD} is going away
+05:39:08.049 [Thread-21] INFO  Harbor - Pier{id=1} is free
+05:39:08.048 [Thread-24] INFO  Ship - Ship 24 {1149, RELOAD} has moored to Pier{id=1}
+05:39:08.049 [Thread-22] ERROR Pier - Ship 22 {1068, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:08.051 [Thread-22] INFO  Ship - Ship 22 {1068, UPLOAD} is going away
+05:39:09.049 [Thread-25] INFO  Ship - Ship 25 {1764, RELOAD} has moored to Pier{id=4}
+05:39:09.051 [Thread-23] ERROR Pier - Ship 23 {1325, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:09.052 [Thread-23] INFO  Ship - Ship 23 {1325, UPLOAD} is going away
+05:39:09.052 [Thread-22] INFO  Harbor - Pier{id=4} is free
+05:39:10.053 [Thread-23] INFO  Harbor - Pier{id=2} is free
+05:39:10.052 [Thread-26] INFO  Ship - Ship 26 {1103, UPLOAD} has moored to Pier{id=2}
+05:39:11.054 [Thread-27] INFO  Ship - Ship 27 {1915, UPLOAD} has moored to Pier{id=3}
+05:39:11.201 [Thread-24] INFO  ShipState - Ship 24 {0, RELOAD} UNLOAD OK
+05:39:11.202 [Thread-24] INFO  ShipState - There is not enough containers in the storage for Ship 24 {0, RELOAD} 1149
+05:39:12.351 [Thread-24] INFO  ShipState - Ship 24 {1149, RELOAD} UPLOAD OK (not full)
+05:39:13.352 [Thread-24] INFO  Ship - Ship 24 {1149, RELOAD} is going away
+05:39:14.352 [Thread-24] INFO  Harbor - Pier{id=1} is free
+05:39:15.353 [Thread-30] INFO  Ship - Ship 30 {43, UPLOAD} has moored to Pier{id=1}
+05:39:16.116 [Thread-25] INFO  ShipState - Ship 25 {0, RELOAD} UNLOAD OK
+05:39:16.117 [Thread-25] INFO  ShipState - There is not enough containers in the storage for Ship 25 {0, RELOAD} 1764
+05:39:17.882 [Thread-25] INFO  ShipState - Ship 25 {1764, RELOAD} UPLOAD OK (not full)
+05:39:18.882 [Thread-25] INFO  Ship - Ship 25 {1764, RELOAD} is going away
+05:39:19.883 [Thread-25] INFO  Harbor - Pier{id=4} is free
+05:39:19.883 [Thread-26] ERROR Pier - Ship 26 {1103, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:19.885 [Thread-26] INFO  Ship - Ship 26 {1103, UPLOAD} is going away
+05:39:20.884 [Thread-29] INFO  Ship - Ship 29 {110, UPLOAD} has moored to Pier{id=2}
+05:39:20.885 [Thread-26] INFO  Harbor - Pier{id=2} is free
+05:39:20.885 [Thread-27] ERROR Pier - Ship 27 {1915, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:20.885 [Thread-27] INFO  Ship - Ship 27 {1915, UPLOAD} is going away
+05:39:21.886 [Thread-27] INFO  Harbor - Pier{id=3} is free
+05:39:21.885 [Thread-31] INFO  Ship - Ship 31 {1350, RELOAD} has moored to Pier{id=3}
+05:39:21.886 [Thread-30] ERROR Pier - Ship 30 {43, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:21.888 [Thread-30] INFO  Ship - Ship 30 {43, UPLOAD} is going away
+05:39:22.886 [Thread-28] INFO  Ship - Ship 28 {636, UPLOAD} has moored to Pier{id=1}
+05:39:22.888 [Thread-30] INFO  Harbor - Pier{id=1} is free
+05:39:22.888 [Thread-29] ERROR Pier - Ship 29 {110, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:22.889 [Thread-29] INFO  Ship - Ship 29 {110, UPLOAD} is going away
+05:39:23.889 [Thread-32] INFO  Ship - Ship 32 {570, UPLOAD} has moored to Pier{id=2}
+05:39:23.890 [Thread-29] INFO  Harbor - Pier{id=2} is free
+05:39:24.890 [Thread-34] INFO  Ship - Ship 34 {1541, UNLOAD} has moored to Pier{id=4}
+05:39:25.240 [Thread-31] INFO  ShipState - Ship 31 {0, RELOAD} UNLOAD OK
+05:39:25.240 [Thread-31] INFO  ShipState - There is not enough containers in the storage for Ship 31 {0, RELOAD} 1350
+05:39:26.591 [Thread-31] INFO  ShipState - Ship 31 {1350, RELOAD} UPLOAD OK (not full)
+05:39:27.592 [Thread-31] INFO  Ship - Ship 31 {1350, RELOAD} is going away
+05:39:28.593 [Thread-31] INFO  Harbor - Pier{id=3} is free
+05:39:28.592 [Thread-28] ERROR Pier - Ship 28 {636, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:28.593 [Thread-28] INFO  Ship - Ship 28 {636, UPLOAD} is going away
+05:39:29.593 [Thread-33] INFO  Ship - Ship 33 {587, UPLOAD} has moored to Pier{id=1}
+05:39:29.594 [Thread-28] INFO  Harbor - Pier{id=1} is free
+05:39:29.594 [Thread-32] ERROR Pier - Ship 32 {570, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:29.595 [Thread-32] INFO  Ship - Ship 32 {570, UPLOAD} is going away
+05:39:30.596 [Thread-32] INFO  Harbor - Pier{id=2} is free
+05:39:30.595 [Thread-35] INFO  Ship - Ship 35 {1142, RELOAD} has moored to Pier{id=2}
+05:39:31.597 [Thread-36] INFO  Ship - Ship 36 {825, UNLOAD} has moored to Pier{id=3}
+05:39:32.137 [Thread-34] INFO  ShipState - Ship 34 {0, UNLOAD} UNLOAD OK
+05:39:33.137 [Thread-34] INFO  Ship - Ship 34 {0, UNLOAD} is going away
+05:39:34.138 [Thread-34] INFO  Harbor - Pier{id=4} is free
+05:39:35.139 [Thread-37] INFO  Ship - Ship 37 {1843, UPLOAD} has moored to Pier{id=4}
+05:39:35.551 [Thread-33] INFO  ShipState - Ship 33 {2000, UPLOAD} UPLOAD OK
+05:39:36.552 [Thread-33] INFO  Ship - Ship 33 {2000, UPLOAD} is going away
+05:39:37.555 [Thread-33] INFO  Harbor - Pier{id=1} is free
+05:39:38.555 [Thread-38] INFO  Ship - Ship 38 {1658, UPLOAD} has moored to Pier{id=1}
+05:39:38.694 [Thread-35] INFO  ShipState - Ship 35 {0, RELOAD} UNLOAD OK
+05:39:38.695 [Thread-35] INFO  ShipState - There is not enough containers in the storage for Ship 35 {0, RELOAD} 1270
+05:39:39.966 [Thread-35] INFO  ShipState - Ship 35 {1270, RELOAD} UPLOAD OK (not full)
+05:39:40.966 [Thread-35] INFO  Ship - Ship 35 {1270, RELOAD} is going away
+05:39:41.967 [Thread-35] INFO  Harbor - Pier{id=2} is free
+05:39:42.792 [Thread-36] INFO  ShipState - Ship 36 {0, UNLOAD} UNLOAD OK
+05:39:42.967 [Thread-39] INFO  Ship - Ship 39 {1573, RELOAD} has moored to Pier{id=2}
+05:39:43.792 [Thread-36] INFO  Ship - Ship 36 {0, UNLOAD} is going away
+05:39:44.794 [Thread-36] INFO  Harbor - Pier{id=3} is free
+05:39:44.950 [Thread-37] INFO  ShipState - Ship 37 {2000, UPLOAD} UPLOAD OK
+05:39:45.794 [Thread-40] INFO  Ship - Ship 40 {1917, UPLOAD} has moored to Pier{id=3}
+05:39:45.951 [Thread-37] INFO  Ship - Ship 37 {2000, UPLOAD} is going away
+05:39:46.951 [Thread-37] INFO  Harbor - Pier{id=4} is free
+05:39:47.293 [Thread-38] INFO  ShipState - Ship 38 {2000, UPLOAD} UPLOAD OK
+05:39:47.952 [Thread-41] INFO  Ship - Ship 41 {1360, RELOAD} has moored to Pier{id=4}
+05:39:48.294 [Thread-38] INFO  Ship - Ship 38 {2000, UPLOAD} is going away
+05:39:49.294 [Thread-38] INFO  Harbor - Pier{id=1} is free
+05:39:50.295 [Thread-42] INFO  Ship - Ship 42 {1620, UNLOAD} has moored to Pier{id=1}
+05:39:50.867 [Thread-39] INFO  ShipState - Ship 39 {0, RELOAD} UNLOAD OK
+05:39:50.868 [Thread-39] INFO  ShipState - There is not enough containers in the storage for Ship 39 {0, RELOAD} 1899
+05:39:52.768 [Thread-39] INFO  ShipState - Ship 39 {1899, RELOAD} UPLOAD OK (not full)
+05:39:53.768 [Thread-39] INFO  Ship - Ship 39 {1899, RELOAD} is going away
+05:39:54.769 [Thread-39] INFO  Harbor - Pier{id=2} is free
+05:39:54.769 [Thread-40] ERROR Pier - Ship 40 {1917, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:39:54.770 [Thread-40] INFO  Ship - Ship 40 {1917, UPLOAD} is going away
+05:39:55.769 [Thread-43] INFO  Ship - Ship 43 {1077, UPLOAD} has moored to Pier{id=3}
+05:39:55.770 [Thread-40] INFO  Harbor - Pier{id=3} is free
+05:39:56.771 [Thread-44] INFO  Ship - Ship 44 {661, UNLOAD} has moored to Pier{id=2}
+05:39:57.130 [Thread-41] INFO  ShipState - Ship 41 {0, RELOAD} UNLOAD OK
+05:39:57.131 [Thread-41] INFO  ShipState - There is not enough containers in the storage for Ship 41 {0, RELOAD} 1360
+05:39:58.492 [Thread-41] INFO  ShipState - Ship 41 {1360, RELOAD} UPLOAD OK (not full)
+05:39:59.493 [Thread-41] INFO  Ship - Ship 41 {1360, RELOAD} is going away
+05:40:00.493 [Thread-41] INFO  Harbor - Pier{id=4} is free
+05:40:01.494 [Thread-45] INFO  Ship - Ship 45 {450, UPLOAD} has moored to Pier{id=4}
+05:40:02.113 [Thread-42] INFO  ShipState - Ship 42 {0, UNLOAD} UNLOAD OK
+05:40:03.114 [Thread-42] INFO  Ship - Ship 42 {0, UNLOAD} is going away
+05:40:04.115 [Thread-42] INFO  Harbor - Pier{id=1} is free
+05:40:05.037 [Thread-43] INFO  ShipState - Ship 43 {2000, UPLOAD} UPLOAD OK
+05:40:05.115 [Thread-46] INFO  Ship - Ship 46 {1780, UNLOAD} has moored to Pier{id=1}
+05:40:06.038 [Thread-43] INFO  Ship - Ship 43 {2000, UPLOAD} is going away
+05:40:07.039 [Thread-43] INFO  Harbor - Pier{id=3} is free
+05:40:07.699 [Thread-44] INFO  ShipState - Ship 44 {0, UNLOAD} UNLOAD OK
+05:40:08.039 [Thread-47] INFO  Ship - Ship 47 {1283, UNLOAD} has moored to Pier{id=3}
+05:40:08.700 [Thread-44] INFO  Ship - Ship 44 {0, UNLOAD} is going away
+05:40:09.700 [Thread-45] INFO  ShipState - There is not enough containers in the storage for Ship 45 {450, UPLOAD} 1358
+05:40:09.701 [Thread-44] INFO  Harbor - Pier{id=2} is free
+05:40:10.701 [Thread-48] INFO  Ship - Ship 48 {1683, UPLOAD} has moored to Pier{id=2}
+05:40:11.059 [Thread-45] INFO  ShipState - Ship 45 {1358, UPLOAD} UPLOAD OK (not full)
+05:40:12.060 [Thread-45] INFO  Ship - Ship 45 {1358, UPLOAD} is going away
+05:40:13.060 [Thread-45] INFO  Harbor - Pier{id=4} is free
+05:40:14.061 [Thread-49] INFO  Ship - Ship 49 {642, RELOAD} has moored to Pier{id=4}
+05:40:14.840 [Thread-46] INFO  ShipState - Ship 46 {0, UNLOAD} UNLOAD OK
+05:40:15.841 [Thread-46] INFO  Ship - Ship 46 {0, UNLOAD} is going away
+05:40:16.842 [Thread-46] INFO  Harbor - Pier{id=1} is free
+05:40:17.842 [Thread-50] INFO  Ship - Ship 50 {1745, UPLOAD} has moored to Pier{id=1}
+05:40:18.124 [Thread-47] INFO  ShipState - Ship 47 {0, UNLOAD} UNLOAD OK
+05:40:19.125 [Thread-47] INFO  Ship - Ship 47 {0, UNLOAD} is going away
+05:40:20.125 [Thread-47] INFO  Harbor - Pier{id=3} is free
+05:40:20.442 [Thread-48] INFO  ShipState - Ship 48 {2000, UPLOAD} UPLOAD OK
+05:40:21.126 [Thread-51] INFO  Ship - Ship 51 {1029, RELOAD} has moored to Pier{id=3}
+05:40:21.443 [Thread-48] INFO  Ship - Ship 48 {2000, UPLOAD} is going away
+05:40:22.444 [Thread-48] INFO  Harbor - Pier{id=2} is free
+05:40:23.085 [Thread-49] INFO  ShipState - Ship 49 {0, RELOAD} UNLOAD OK
+05:40:23.444 [Thread-52] INFO  Ship - Ship 52 {436, UNLOAD} has moored to Pier{id=2}
+05:40:25.087 [Thread-49] INFO  ShipState - Ship 49 {2000, RELOAD} UPLOAD OK
+05:40:26.087 [Thread-49] INFO  Ship - Ship 49 {2000, RELOAD} is going away
+05:40:27.088 [Thread-49] INFO  Harbor - Pier{id=4} is free
+05:40:27.343 [Thread-50] INFO  ShipState - Ship 50 {2000, UPLOAD} UPLOAD OK
+05:40:28.088 [Thread-53] INFO  Ship - Ship 53 {547, UNLOAD} has moored to Pier{id=4}
+05:40:28.343 [Thread-50] INFO  Ship - Ship 50 {2000, UPLOAD} is going away
+05:40:29.344 [Thread-50] INFO  Harbor - Pier{id=1} is free
+05:40:30.345 [Thread-54] INFO  Ship - Ship 54 {1814, UPLOAD} has moored to Pier{id=1}
+05:40:30.373 [Thread-51] INFO  ShipState - Ship 51 {0, RELOAD} UNLOAD OK
+05:40:32.373 [Thread-51] INFO  ShipState - Ship 51 {2000, RELOAD} UPLOAD OK
+05:40:33.374 [Thread-51] INFO  Ship - Ship 51 {2000, RELOAD} is going away
+05:40:34.375 [Thread-51] INFO  Harbor - Pier{id=3} is free
+05:40:34.810 [Thread-52] INFO  ShipState - Ship 52 {0, UNLOAD} UNLOAD OK
+05:40:35.375 [Thread-55] INFO  Ship - Ship 55 {1079, UNLOAD} has moored to Pier{id=3}
+05:40:35.811 [Thread-52] INFO  Ship - Ship 52 {0, UNLOAD} is going away
+05:40:36.812 [Thread-52] INFO  Harbor - Pier{id=2} is free
+05:40:37.359 [Thread-53] INFO  ShipState - Ship 53 {0, UNLOAD} UNLOAD OK
+05:40:37.813 [Thread-56] INFO  Ship - Ship 56 {1293, UPLOAD} has moored to Pier{id=2}
+05:40:38.359 [Thread-53] INFO  Ship - Ship 53 {0, UNLOAD} is going away
+05:40:39.360 [Thread-53] INFO  Harbor - Pier{id=4} is free
+05:40:39.546 [Thread-54] INFO  ShipState - Ship 54 {2000, UPLOAD} UPLOAD OK
+05:40:40.361 [Thread-57] INFO  Ship - Ship 57 {1836, RELOAD} has moored to Pier{id=4}
+05:40:40.546 [Thread-54] INFO  Ship - Ship 54 {2000, UPLOAD} is going away
+05:40:41.547 [Thread-54] INFO  Harbor - Pier{id=1} is free
+05:40:42.547 [Thread-58] INFO  Ship - Ship 58 {1183, UPLOAD} has moored to Pier{id=1}
+05:40:42.626 [Thread-55] INFO  ShipState - Ship 55 {0, UNLOAD} UNLOAD OK
+05:40:43.627 [Thread-55] INFO  Ship - Ship 55 {0, UNLOAD} is going away
+05:40:44.628 [Thread-55] INFO  Harbor - Pier{id=3} is free
+05:40:45.334 [Thread-56] INFO  ShipState - Ship 56 {2000, UPLOAD} UPLOAD OK
+05:40:45.628 [Thread-59] INFO  Ship - Ship 59 {951, UNLOAD} has moored to Pier{id=3}
+05:40:46.335 [Thread-56] INFO  Ship - Ship 56 {2000, UPLOAD} is going away
+05:40:47.336 [Thread-56] INFO  Harbor - Pier{id=2} is free
+05:40:48.336 [Thread-60] INFO  Ship - Ship 60 {895, RELOAD} has moored to Pier{id=2}
+05:40:49.171 [Thread-57] INFO  ShipState - Ship 57 {0, RELOAD} UNLOAD OK
+05:40:51.172 [Thread-57] INFO  ShipState - Ship 57 {2000, RELOAD} UPLOAD OK
+05:40:52.173 [Thread-57] INFO  Ship - Ship 57 {2000, RELOAD} is going away
+05:40:53.174 [Thread-57] INFO  Harbor - Pier{id=4} is free
+05:40:53.990 [Thread-58] INFO  ShipState - Ship 58 {2000, UPLOAD} UPLOAD OK
+05:40:54.174 [Thread-61] INFO  Ship - Ship 61 {1693, UNLOAD} has moored to Pier{id=4}
+05:40:54.991 [Thread-58] INFO  Ship - Ship 58 {2000, UPLOAD} is going away
+05:40:55.992 [Thread-58] INFO  Harbor - Pier{id=1} is free
+05:40:56.943 [Thread-59] INFO  ShipState - Ship 59 {0, UNLOAD} UNLOAD OK
+05:40:56.992 [Thread-62] INFO  Ship - Ship 62 {1585, RELOAD} has moored to Pier{id=1}
+05:40:57.943 [Thread-59] INFO  Ship - Ship 59 {0, UNLOAD} is going away
+05:40:58.944 [Thread-59] INFO  Harbor - Pier{id=3} is free
+05:40:59.839 [Thread-60] INFO  ShipState - Ship 60 {0, RELOAD} UNLOAD OK
+05:40:59.945 [Thread-64] INFO  Ship - Ship 64 {1291, RELOAD} has moored to Pier{id=3}
+05:41:01.840 [Thread-60] INFO  ShipState - Ship 60 {2000, RELOAD} UPLOAD OK
+05:41:02.840 [Thread-60] INFO  Ship - Ship 60 {2000, RELOAD} is going away
+05:41:03.841 [Thread-60] INFO  Harbor - Pier{id=2} is free
+05:41:04.842 [Thread-63] INFO  Ship - Ship 63 {43, UNLOAD} has moored to Pier{id=2}
+05:41:05.534 [Thread-61] INFO  ShipState - Ship 61 {0, UNLOAD} UNLOAD OK
+05:41:06.535 [Thread-61] INFO  Ship - Ship 61 {0, UNLOAD} is going away
+05:41:07.536 [Thread-61] INFO  Harbor - Pier{id=4} is free
+05:41:08.547 [Thread-65] INFO  Ship - Ship 65 {1957, RELOAD} has moored to Pier{id=4}
+05:41:09.120 [Thread-62] INFO  ShipState - Ship 62 {0, RELOAD} UNLOAD OK
+05:41:11.121 [Thread-62] INFO  ShipState - Ship 62 {2000, RELOAD} UPLOAD OK
+05:41:12.122 [Thread-62] INFO  Ship - Ship 62 {2000, RELOAD} is going away
+05:41:13.122 [Thread-62] INFO  Harbor - Pier{id=1} is free
+05:41:14.123 [Thread-66] INFO  Ship - Ship 66 {1571, UPLOAD} has moored to Pier{id=1}
+05:41:14.413 [Thread-64] INFO  ShipState - Ship 64 {0, RELOAD} UNLOAD OK
+05:41:16.414 [Thread-64] INFO  ShipState - Ship 64 {2000, RELOAD} UPLOAD OK
+05:41:17.416 [Thread-64] INFO  Ship - Ship 64 {2000, RELOAD} is going away
+05:41:18.418 [Thread-64] INFO  Harbor - Pier{id=3} is free
+05:41:18.459 [Thread-63] INFO  ShipState - Ship 63 {0, UNLOAD} UNLOAD OK
+05:41:19.418 [Thread-67] INFO  Ship - Ship 67 {1503, RELOAD} has moored to Pier{id=3}
+05:41:19.460 [Thread-63] INFO  Ship - Ship 63 {0, UNLOAD} is going away
+05:41:20.460 [Thread-63] INFO  Harbor - Pier{id=2} is free
+05:41:21.460 [Thread-68] INFO  Ship - Ship 68 {1650, UPLOAD} has moored to Pier{id=2}
+05:41:22.417 [Thread-65] INFO  ShipState - Ship 65 {0, RELOAD} UNLOAD OK
+05:41:24.418 [Thread-65] INFO  ShipState - Ship 65 {2000, RELOAD} UPLOAD OK
+05:41:25.418 [Thread-65] INFO  Ship - Ship 65 {2000, RELOAD} is going away
+05:41:26.419 [Thread-65] INFO  Harbor - Pier{id=4} is free
+05:41:26.848 [Thread-66] INFO  ShipState - Ship 66 {2000, UPLOAD} UPLOAD OK
+05:41:27.420 [Thread-69] INFO  Ship - Ship 69 {1428, UNLOAD} has moored to Pier{id=4}
+05:41:27.848 [Thread-66] INFO  Ship - Ship 66 {2000, UPLOAD} is going away
+05:41:28.849 [Thread-66] INFO  Harbor - Pier{id=1} is free
+05:41:29.849 [Thread-70] INFO  Ship - Ship 70 {318, UNLOAD} has moored to Pier{id=1}
+05:41:30.352 [Thread-67] INFO  ShipState - Ship 67 {0, RELOAD} UNLOAD OK
+05:41:30.352 [Thread-67] INFO  ShipState - There is not enough containers in the storage for Ship 67 {0, RELOAD} 1839
+05:41:32.192 [Thread-67] INFO  ShipState - Ship 67 {1839, RELOAD} UPLOAD OK (not full)
+05:41:33.193 [Thread-67] INFO  Ship - Ship 67 {1839, RELOAD} is going away
+05:41:34.193 [Thread-67] INFO  Harbor - Pier{id=3} is free
+05:41:34.193 [Thread-68] ERROR Pier - Ship 68 {1650, UPLOAD} Empty storage
+HarborException:  Empty storage
+	at ShipState$1.action(ShipState.java:24) ~[classes/:?]
+	at Pier.serve(Pier.java:33) [classes/:?]
+	at Ship.run(Ship.java:38) [classes/:?]
+05:41:34.195 [Thread-68] INFO  Ship - Ship 68 {1650, UPLOAD} is going away
+05:41:35.194 [Thread-71] INFO  Ship - Ship 71 {815, UNLOAD} has moored to Pier{id=2}
+05:41:35.195 [Thread-68] INFO  Harbor - Pier{id=2} is free
+05:41:36.195 [Thread-72] INFO  Ship - Ship 72 {1526, UNLOAD} has moored to Pier{id=3}
+05:41:36.623 [Thread-69] INFO  ShipState - Ship 69 {0, UNLOAD} UNLOAD OK
+05:41:37.624 [Thread-69] INFO  Ship - Ship 69 {0, UNLOAD} is going away
+05:41:38.624 [Thread-69] INFO  Harbor - Pier{id=4} is free
+05:41:38.942 [Thread-70] INFO  ShipState - Ship 70 {0, UNLOAD} UNLOAD OK
+05:41:39.624 [Thread-73] INFO  Ship - Ship 73 {184, UNLOAD} has moored to Pier{id=4}
+05:41:39.943 [Thread-70] INFO  Ship - Ship 70 {0, UNLOAD} is going away
+05:41:40.943 [Thread-70] INFO  Harbor - Pier{id=1} is free
+05:41:41.758 [Thread-71] INFO  ShipState - Ship 71 {0, UNLOAD} UNLOAD OK
+05:41:41.944 [Thread-74] INFO  Ship - Ship 74 {192, RELOAD} has moored to Pier{id=1}

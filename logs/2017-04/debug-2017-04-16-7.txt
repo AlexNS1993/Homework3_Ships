@@ -1,0 +1,347 @@
+01:15:06.808 [Max] INFO  PriorThread - Max#9828
+01:15:06.814 [Max] INFO  PriorThread - Max#9829
+01:15:06.815 [Max] INFO  PriorThread - Max#9830
+01:15:06.815 [Max] INFO  PriorThread - Max#9831
+01:15:06.815 [Max] INFO  PriorThread - Max#9832
+01:15:06.815 [Max] INFO  PriorThread - Max#9833
+01:15:06.815 [Max] INFO  PriorThread - Max#9834
+01:15:06.815 [Max] INFO  PriorThread - Max#9835
+01:15:06.815 [Max] INFO  PriorThread - Max#9836
+01:15:06.815 [Max] INFO  PriorThread - Max#9837
+01:15:06.815 [Max] INFO  PriorThread - Max#9838
+01:15:06.815 [Max] INFO  PriorThread - Max#9839
+01:15:06.815 [Max] INFO  PriorThread - Max#9840
+01:15:06.815 [Max] INFO  PriorThread - Max#9841
+01:15:06.815 [Max] INFO  PriorThread - Max#9842
+01:15:06.815 [Max] INFO  PriorThread - Max#9843
+01:15:06.815 [Max] INFO  PriorThread - Max#9844
+01:15:06.815 [Max] INFO  PriorThread - Max#9845
+01:15:06.815 [Max] INFO  PriorThread - Max#9846
+01:15:06.815 [Max] INFO  PriorThread - Max#9847
+01:15:06.815 [Max] INFO  PriorThread - Max#9848
+01:15:06.815 [Max] INFO  PriorThread - Max#9849
+01:15:06.815 [Max] INFO  PriorThread - Max#9850
+01:15:06.815 [Max] INFO  PriorThread - Max#9851
+01:15:06.815 [Max] INFO  PriorThread - Max#9852
+01:15:06.815 [Max] INFO  PriorThread - Max#9853
+01:15:06.815 [Max] INFO  PriorThread - Max#9854
+01:15:06.815 [Max] INFO  PriorThread - Max#9855
+01:15:06.815 [Max] INFO  PriorThread - Max#9856
+01:15:06.815 [Max] INFO  PriorThread - Max#9857
+01:15:06.815 [Max] INFO  PriorThread - Max#9858
+01:15:06.815 [Max] INFO  PriorThread - Max#9859
+01:15:06.815 [Max] INFO  PriorThread - Max#9860
+01:15:06.815 [Max] INFO  PriorThread - Max#9861
+01:15:06.815 [Max] INFO  PriorThread - Max#9862
+01:15:06.816 [Max] INFO  PriorThread - Max#9863
+01:15:06.816 [Max] INFO  PriorThread - Max#9864
+01:15:06.816 [Max] INFO  PriorThread - Max#9865
+01:15:06.816 [Max] INFO  PriorThread - Max#9866
+01:15:06.816 [Max] INFO  PriorThread - Max#9867
+01:15:06.816 [Max] INFO  PriorThread - Max#9868
+01:15:06.816 [Max] INFO  PriorThread - Max#9869
+01:15:06.816 [Max] INFO  PriorThread - Max#9870
+01:15:06.816 [Max] INFO  PriorThread - Max#9871
+01:15:06.816 [Max] INFO  PriorThread - Max#9872
+01:15:06.816 [Max] INFO  PriorThread - Max#9873
+01:15:06.816 [Max] INFO  PriorThread - Max#9874
+01:15:06.816 [Max] INFO  PriorThread - Max#9875
+01:15:06.816 [Max] INFO  PriorThread - Max#9876
+01:15:06.816 [Max] INFO  PriorThread - Max#9877
+01:15:06.816 [Max] INFO  PriorThread - Max#9878
+01:15:06.816 [Max] INFO  PriorThread - Max#9879
+01:15:06.816 [Max] INFO  PriorThread - Max#9880
+01:15:06.816 [Max] INFO  PriorThread - Max#9881
+01:15:06.816 [Max] INFO  PriorThread - Max#9882
+01:15:06.816 [Max] INFO  PriorThread - Max#9883
+01:15:06.816 [Max] INFO  PriorThread - Max#9884
+01:15:06.816 [Max] INFO  PriorThread - Max#9885
+01:15:06.816 [Max] INFO  PriorThread - Max#9886
+01:15:06.816 [Max] INFO  PriorThread - Max#9887
+01:15:06.816 [Max] INFO  PriorThread - Max#9888
+01:15:06.816 [Max] INFO  PriorThread - Max#9889
+01:15:06.816 [Max] INFO  PriorThread - Max#9890
+01:15:06.816 [Max] INFO  PriorThread - Max#9891
+01:15:06.816 [Max] INFO  PriorThread - Max#9892
+01:15:06.816 [Max] INFO  PriorThread - Max#9893
+01:15:06.816 [Max] INFO  PriorThread - Max#9894
+01:15:06.816 [Max] INFO  PriorThread - Max#9895
+01:15:06.817 [Max] INFO  PriorThread - Max#9896
+01:15:06.817 [Max] INFO  PriorThread - Max#9897
+01:15:06.817 [Max] INFO  PriorThread - Max#9898
+01:15:06.817 [Max] INFO  PriorThread - Max#9899
+01:15:06.817 [Max] INFO  PriorThread - Max#9900
+01:15:06.817 [Max] INFO  PriorThread - Max#9901
+01:15:06.817 [Max] INFO  PriorThread - Max#9902
+01:15:06.817 [Max] INFO  PriorThread - Max#9903
+01:15:06.817 [Max] INFO  PriorThread - Max#9904
+01:15:06.817 [Max] INFO  PriorThread - Max#9905
+01:15:06.817 [Max] INFO  PriorThread - Max#9906
+01:15:06.817 [Max] INFO  PriorThread - Max#9907
+01:15:06.817 [Max] INFO  PriorThread - Max#9908
+01:15:06.817 [Max] INFO  PriorThread - Max#9909
+01:15:06.817 [Max] INFO  PriorThread - Max#9910
+01:15:06.817 [Max] INFO  PriorThread - Max#9911
+01:15:06.817 [Max] INFO  PriorThread - Max#9912
+01:15:06.817 [Max] INFO  PriorThread - Max#9913
+01:15:06.817 [Max] INFO  PriorThread - Max#9914
+01:15:06.817 [Max] INFO  PriorThread - Max#9915
+01:15:06.817 [Max] INFO  PriorThread - Max#9916
+01:15:06.817 [Max] INFO  PriorThread - Max#9917
+01:15:06.817 [Max] INFO  PriorThread - Max#9918
+01:15:06.818 [Max] INFO  PriorThread - Max#9919
+01:15:06.818 [Max] INFO  PriorThread - Max#9920
+01:15:06.819 [Max] INFO  PriorThread - Max#9921
+01:15:06.819 [Max] INFO  PriorThread - Max#9922
+01:15:06.819 [Max] INFO  PriorThread - Max#9923
+01:15:06.819 [Max] INFO  PriorThread - Max#9924
+01:15:06.819 [Max] INFO  PriorThread - Max#9925
+01:15:06.819 [Max] INFO  PriorThread - Max#9926
+01:15:06.819 [Max] INFO  PriorThread - Max#9927
+01:15:06.819 [Max] INFO  PriorThread - Max#9928
+01:15:06.819 [Max] INFO  PriorThread - Max#9929
+01:15:06.819 [Max] INFO  PriorThread - Max#9930
+01:15:06.819 [Max] INFO  PriorThread - Max#9931
+01:15:06.819 [Max] INFO  PriorThread - Max#9932
+01:15:06.819 [Max] INFO  PriorThread - Max#9933
+01:15:06.819 [Max] INFO  PriorThread - Max#9934
+01:15:06.819 [Max] INFO  PriorThread - Max#9935
+01:15:06.819 [Max] INFO  PriorThread - Max#9936
+01:15:06.819 [Max] INFO  PriorThread - Max#9937
+01:15:06.819 [Max] INFO  PriorThread - Max#9938
+01:15:06.819 [Max] INFO  PriorThread - Max#9939
+01:15:06.819 [Max] INFO  PriorThread - Max#9940
+01:15:06.819 [Max] INFO  PriorThread - Max#9941
+01:15:06.819 [Max] INFO  PriorThread - Max#9942
+01:15:06.819 [Max] INFO  PriorThread - Max#9943
+01:15:06.819 [Max] INFO  PriorThread - Max#9944
+01:15:06.819 [Max] INFO  PriorThread - Max#9945
+01:15:06.819 [Max] INFO  PriorThread - Max#9946
+01:15:06.819 [Max] INFO  PriorThread - Max#9947
+01:15:06.819 [Max] INFO  PriorThread - Max#9948
+01:15:06.819 [Max] INFO  PriorThread - Max#9949
+01:15:06.819 [Max] INFO  PriorThread - Max#9950
+01:15:06.819 [Max] INFO  PriorThread - Max#9951
+01:15:06.819 [Max] INFO  PriorThread - Max#9952
+01:15:06.820 [Max] INFO  PriorThread - Max#9953
+01:15:06.820 [Max] INFO  PriorThread - Max#9954
+01:15:06.822 [Max] INFO  PriorThread - Max#9955
+01:15:06.823 [Max] INFO  PriorThread - Max#9956
+01:15:06.823 [Max] INFO  PriorThread - Max#9957
+01:15:06.823 [Max] INFO  PriorThread - Max#9958
+01:15:06.823 [Max] INFO  PriorThread - Max#9959
+01:15:06.823 [Max] INFO  PriorThread - Max#9960
+01:15:06.823 [Max] INFO  PriorThread - Max#9961
+01:15:06.823 [Max] INFO  PriorThread - Max#9962
+01:15:06.823 [Max] INFO  PriorThread - Max#9963
+01:15:06.823 [Max] INFO  PriorThread - Max#9964
+01:15:06.823 [Max] INFO  PriorThread - Max#9965
+01:15:06.823 [Max] INFO  PriorThread - Max#9966
+01:15:06.823 [Max] INFO  PriorThread - Max#9967
+01:15:06.823 [Max] INFO  PriorThread - Max#9968
+01:15:06.823 [Max] INFO  PriorThread - Max#9969
+01:15:06.823 [Max] INFO  PriorThread - Max#9970
+01:15:06.823 [Max] INFO  PriorThread - Max#9971
+01:15:06.823 [Max] INFO  PriorThread - Max#9972
+01:15:06.823 [Max] INFO  PriorThread - Max#9973
+01:15:06.823 [Max] INFO  PriorThread - Max#9974
+01:15:06.823 [Max] INFO  PriorThread - Max#9975
+01:15:06.823 [Max] INFO  PriorThread - Max#9976
+01:15:06.823 [Max] INFO  PriorThread - Max#9977
+01:15:06.823 [Max] INFO  PriorThread - Max#9978
+01:15:06.823 [Max] INFO  PriorThread - Max#9979
+01:15:06.823 [Max] INFO  PriorThread - Max#9980
+01:15:06.823 [Max] INFO  PriorThread - Max#9981
+01:15:06.823 [Max] INFO  PriorThread - Max#9982
+01:15:06.823 [Max] INFO  PriorThread - Max#9983
+01:15:06.823 [Max] INFO  PriorThread - Max#9984
+01:15:06.823 [Max] INFO  PriorThread - Max#9985
+01:15:06.823 [Max] INFO  PriorThread - Max#9986
+01:15:06.823 [Max] INFO  PriorThread - Max#9987
+01:15:06.823 [Max] INFO  PriorThread - Max#9988
+01:15:06.824 [Max] INFO  PriorThread - Max#9989
+01:15:06.824 [Max] INFO  PriorThread - Max#9990
+01:15:06.824 [Max] INFO  PriorThread - Max#9991
+01:15:06.824 [Max] INFO  PriorThread - Max#9992
+01:15:06.824 [Max] INFO  PriorThread - Max#9993
+01:15:06.824 [Max] INFO  PriorThread - Max#9994
+01:15:06.824 [Max] INFO  PriorThread - Max#9995
+01:15:06.824 [Max] INFO  PriorThread - Max#9996
+01:15:06.824 [Max] INFO  PriorThread - Max#9997
+01:15:06.824 [Max] INFO  PriorThread - Max#9998
+01:15:06.824 [Max] INFO  PriorThread - Max#9999
+15:25:15.778 [main] INFO  App - Старт потока main
+15:25:15.783 [second] INFO  JoinThread - Старт потока : second
+15:25:15.783 [first] INFO  JoinThread - Старт потока : first
+15:25:16.784 [second] INFO  JoinThread - Завершение потока : second
+15:25:20.784 [first] INFO  JoinThread - Завершение потока : first
+15:25:20.785 [main] INFO  App - Текущий поток : main
+15:25:46.236 [main] INFO  App - Старт потока : main
+15:25:46.241 [first] INFO  JoinThread - Старт потока : first
+15:25:46.247 [second] INFO  JoinThread - Старт потока : second
+15:25:47.248 [second] INFO  JoinThread - Завершение потока : second
+15:25:51.242 [first] INFO  JoinThread - Завершение потока : first
+15:25:51.243 [main] INFO  App - Текущий поток : main
+15:34:44.031 [main] INFO  App - Старт потока : main
+15:34:44.036 [first] INFO  JoinThread - Старт потока : first
+15:34:44.036 [second] INFO  JoinThread - Старт потока : second
+15:34:45.037 [second] INFO  JoinThread - Завершение потока : second
+15:34:49.037 [first] INFO  JoinThread - Завершение потока : first
+15:34:49.038 [main] INFO  App - Текущий поток : main
+17:57:57.614 [main] INFO  App - Старт потока : main
+17:57:57.618 [Thread-1] INFO  SimpleThread - Старт обычного потока
+17:57:57.619 [main] INFO  App - Последний оператор main
+17:57:57.619 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+17:57:57.619 [Thread-2] INFO  SimpleThread - Старт потока-демона
+17:58:22.603 [main] INFO  App - Старт потока : main
+17:58:22.611 [Thread-2] INFO  SimpleThread - Старт потока-демона
+17:58:22.613 [main] INFO  App - Последний оператор main
+17:58:22.613 [Thread-1] INFO  SimpleThread - Старт обычного потока
+17:58:22.615 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+17:58:30.254 [main] INFO  App - Старт потока : main
+17:58:30.257 [Thread-2] INFO  SimpleThread - Старт потока-демона
+17:58:30.258 [main] INFO  App - Последний оператор main
+17:58:30.258 [Thread-1] INFO  SimpleThread - Старт обычного потока
+17:58:30.258 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+17:58:33.820 [main] INFO  App - Старт потока : main
+17:58:33.824 [main] INFO  App - Последний оператор main
+17:58:33.824 [Thread-1] INFO  SimpleThread - Старт обычного потока
+17:58:33.825 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+17:58:33.824 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:01:22.347 [main] INFO  App - Старт потока : main
+18:01:22.351 [main] INFO  App - Последний оператор main
+18:01:22.351 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:01:22.351 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:01:22.351 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:06:56.421 [main] INFO  App - Старт потока : main
+18:06:56.424 [main] INFO  App - Последний оператор main
+18:06:56.425 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:06:56.424 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:06:56.425 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:09:57.537 [main] INFO  App - Старт потока : main
+18:09:57.540 [main] INFO  App - Последний оператор main
+18:09:57.540 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:09:57.541 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:09:57.540 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:10:07.624 [main] INFO  App - Старт потока : main
+18:10:07.627 [main] INFO  App - Последний оператор main
+18:10:07.627 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:10:07.628 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:10:07.627 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:10:17.402 [main] INFO  App - Старт потока : main
+18:10:17.412 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:10:17.413 [main] INFO  App - Последний оператор main
+18:10:17.414 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:10:17.414 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:10:17.414 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:10:27.113 [main] INFO  App - Старт потока : main
+18:10:27.118 [main] INFO  App - Последний оператор main
+18:10:27.119 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:10:27.118 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:10:27.119 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:10:27.120 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:17.016 [main] INFO  App - Старт потока : main
+18:11:17.020 [main] INFO  App - Последний оператор main
+18:11:17.020 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:17.020 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:17.721 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:18.020 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:11:22.727 [main] INFO  App - Старт потока : main
+18:11:22.732 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:22.734 [main] INFO  App - Последний оператор main
+18:11:22.735 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:23.434 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:23.736 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:11:28.267 [main] INFO  App - Старт потока : main
+18:11:28.271 [main] INFO  App - Последний оператор main
+18:11:28.271 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:28.271 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:28.972 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:29.272 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:11:32.113 [main] INFO  App - Старт потока : main
+18:11:32.119 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:32.124 [main] INFO  App - Последний оператор main
+18:11:32.124 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:32.820 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:33.125 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:11:41.632 [main] INFO  App - Старт потока : main
+18:11:41.637 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:41.638 [main] INFO  App - Последний оператор main
+18:11:41.639 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:42.638 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:42.639 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:11:47.580 [main] INFO  App - Старт потока : main
+18:11:47.583 [main] INFO  App - Последний оператор main
+18:11:47.583 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:47.583 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:48.584 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:11:48.584 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:51.999 [main] INFO  App - Старт потока : main
+18:11:52.007 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:11:52.008 [main] INFO  App - Последний оператор main
+18:11:52.009 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:11:53.008 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:11:53.009 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:12:17.013 [main] INFO  App - Старт потока : main
+18:12:17.019 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:12:17.020 [main] INFO  App - Последний оператор main
+18:12:17.021 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:12:26.022 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:12:43.248 [main] INFO  App - Старт потока : main
+18:12:43.253 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:12:43.254 [main] INFO  App - Последний оператор main
+18:12:43.254 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:12:48.255 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:12:59.668 [main] INFO  App - Старт потока : main
+18:12:59.676 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:12:59.680 [main] INFO  App - Последний оператор main
+18:12:59.680 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:13:04.681 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:13:13.469 [main] INFO  App - Старт потока : main
+18:13:13.474 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:13:13.475 [main] INFO  App - Последний оператор main
+18:13:13.475 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:13:18.476 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:13:26.283 [main] INFO  App - Старт потока : main
+18:13:26.286 [main] INFO  App - Последний оператор main
+18:13:26.286 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:13:26.286 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:13:31.287 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:13:31.288 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:13:38.755 [main] INFO  App - Старт потока : main
+18:13:38.760 [main] INFO  App - Последний оператор main
+18:13:38.760 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:13:38.761 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:13:43.762 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:13:52.225 [main] INFO  App - Старт потока : main
+18:13:52.230 [Thread-2] INFO  SimpleThread - Старт потока-демона
+18:13:52.231 [main] INFO  App - Последний оператор main
+18:13:52.231 [Thread-1] INFO  SimpleThread - Старт обычного потока
+18:13:57.232 [Thread-1] INFO  SimpleThread - Завершение обычного потока
+18:13:57.236 [Thread-2] INFO  SimpleThread - Завершение потока-демона
+18:37:03.271 [main] INFO  App - Старт потока : main
+18:37:03.275 [main] INFO  App - Последний оператор main
+18:38:01.862 [main] INFO  App - Старт потока : main
+18:38:01.867 [main] INFO  App - Последний оператор main
+18:39:30.659 [main] INFO  App - Старт потока : main
+18:39:30.662 [main] INFO  App - Последний оператор main
+18:44:19.760 [main] INFO  App - Старт потока : main
+18:44:19.765 [main] INFO  App - Последний оператор main
+18:44:34.259 [main] INFO  App - Старт потока : main
+18:44:34.263 [main] INFO  App - Последний оператор main
+18:47:46.755 [main] INFO  App - Старт потока : main
+18:47:46.759 [main] INFO  App - Последний оператор main
+18:49:59.063 [main] INFO  App - Старт потока : main
+18:49:59.067 [main] INFO  App - Последний оператор main
+18:49:59.067 [Thread-1] ERROR ExceptThread - null
+18:50:30.934 [main] INFO  App - Старт потока : main
+18:50:30.939 [main] INFO  App - Последний оператор main
+18:50:30.941 [Thread-1] ERROR ExceptThread - [Ljava.lang.StackTraceElement;@47fa5b2d
+18:50:58.949 [main] INFO  App - Старт потока : main
+18:50:58.958 [main] INFO  App - Последний оператор main
+18:50:58.959 [Thread-1] ERROR ExceptThread - java.lang.RuntimeException
+18:54:43.950 [main] INFO  App - Старт потока : main
+18:54:43.953 [Thread-1] ERROR ExceptThread - java.lang.RuntimeException
+18:54:44.953 [main] INFO  App - Последний оператор main
+18:55:20.503 [main] INFO  App - Старт потока : main
+18:55:21.505 [main] INFO  App - Последний оператор main
